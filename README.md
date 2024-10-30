@@ -2,7 +2,7 @@
 #### and other aerocraft control algorithms (experimental).
 
 Note: I'm using the arduino ide with espressif's board library added
-
+76.2
 
 
 ### Inputs:
@@ -18,7 +18,7 @@ Need to buy:
 - SG90 metal or higher quality servo actuators
 - higher quality gimble parts (STL files)[https://www.thingiverse.com/thing:3727207]
 - dedicated 9V to 5V converters and 9V battery connector
-- body (diameter TBD, id like to look at carbon fiber if thats practical. maybe a thin sheet then some sort of optimized support structure. )
+- body (diameter TBD, id like to look at carbon fiber if thats practical. possibly with a thin skin layer then some sort of optimized internal support structure. diameter may be around 3 inches or 76.2mm possible just 100mm external)
 
 
 
